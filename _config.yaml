@@ -1,5 +1,13 @@
 ##
-
+# site settings
+locale             : "en-US"
+title              : "Felippe Mariano Colombari"
+title_separator    : "-"
+name               : &name "Felippe Mariano Colombari"
+description        : &description "Computational Chemist"
+url                : https://colombarifm.github.io
+baseurl            : ""
+repository         : "colombarifm/colombarifm.github.io"
 
 author:
   name          : Felippe Mariano Colombari
