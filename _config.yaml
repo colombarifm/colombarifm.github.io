@@ -1,5 +1,6 @@
 ##
 # site settings
+theme              : jekyll-theme-minimal
 locale             : "en-US"
 title              : "Felippe Mariano Colombari"
 title_separator    : "-"
@@ -16,4 +17,4 @@ author:
 
 
 
-theme: jekyll-theme-slate
+
