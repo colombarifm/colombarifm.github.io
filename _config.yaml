@@ -11,10 +11,18 @@ baseurl            : ""
 repository         : "colombarifm/colombarifm.github.io"
 
 author:
-  name          : Felippe Mariano Colombari
-  location      : Campinas, Brasil
-  googlescholar  : https://scholar.google.com.br/citations?user=hcTVynIAAAAJ&hl=pt-BR
+  name             : Felippe Mariano Colombari
+  location         : Campinas, Brasil
+  googlescholar    : https://scholar.google.com.br/citations?user=hcTVynIAAAAJ&hl=pt-BR
+  email            : ""
+  researchgate     : ""
+  github           : "colombarifm"
+  orcid            : ""
+  
 
-
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
 
 
