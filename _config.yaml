@@ -27,8 +27,8 @@ excerpt_separator  : "\n\n"
 incremental        : false
 
 # markdown processing
-kramdown:
-  input:           : GFM
+kramdown           :
+  input            : GFM
   hard_wrap        : false
   auto_ids         : true
   footnote_nr      : 1
